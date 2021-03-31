@@ -29,7 +29,7 @@ $ret = $api->searchSinger('容祖儿');
  * @param string $name
  * @return array
  */
-$api->searchSinger('容祖儿');
+$ api-> searchSinger（'李紫婷')
 ```
 
 ### Get the singer's songs
